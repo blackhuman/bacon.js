@@ -93,7 +93,8 @@
   "module": "./dist/Bacon.mjs",
   "exports": {
     "import": "./dist/Bacon.mjs",
-    "require": "./dist/Bacon.js"
+    "require": "./dist/Bacon.js",
+    "types": "types/bacon.d.ts"
   },
   "types": "types/bacon.d.ts"
 }
